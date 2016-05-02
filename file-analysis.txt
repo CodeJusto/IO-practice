@@ -1,0 +1,8 @@
+html	2	649
+md	10	8641
+rb	70	65576
+docx	9	700454
+lock	1	2246
+gemspec	1	819
+out	1	0
+txt	2	196280
